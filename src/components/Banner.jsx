@@ -31,9 +31,7 @@ const Banner = () => {
             Find Real Estate That Suits You.
           </Heading>
           <Text fontSize="sm">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum,
-            fugit illo? Delectus, voluptas unde quae cupiditate at amet beatae
-            totam!
+          Welcome to our vibrant real estate haven, where dreams find their address and aspirations come to life. Discover a world of endless possibilities as we guide you through our curated selection of properties, each one a masterpiece waiting to be called home.
           </Text>
           <Box pt="3" pb="8">
             <Button>Get Started</Button>

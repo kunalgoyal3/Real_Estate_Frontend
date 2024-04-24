@@ -1,0 +1,18 @@
+
+  
+  .container span {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .container h1 {
+    font-size: 36px;
+    margin-top: 10px;
+  }
+  
+  .back img {
+    display: block;
+    max-width: 100%;
+    margin-top: 20px;
+  }
+  
